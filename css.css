@@ -1,0 +1,11 @@
+* {
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: white;
+}
+
+body {
+    background-image: url(http://getbg.net/upload/full/www.GetBg.net_Backgrounds_Blue_background_on_your_desktop_082106_.jpg);
+    margin-left: 20px;
+    background-size: cover;
+}
